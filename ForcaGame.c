@@ -15,10 +15,10 @@ int main()
 		
 		fp = fopen("FORCA.txt","r");
 		if(!fp)
-	{
-		 printf( "Erro na abertura do arquivo");
-		 exit(0);
-	}
+		{
+		 	printf( "Erro na abertura do arquivo");
+		 	exit(0);
+		}
 	
 	
 	srand(time(NULL));
@@ -59,7 +59,7 @@ int main()
 		//__fpurge(stdin);
 		fgets(letra, sizeof(letra), stdin);
 		//gets(letra);
-		fflush(stdin);
+		//fflush(stdin);
 	
 	
 		for(i=0; i<tp ;i++)

@@ -23,7 +23,7 @@ This project was developed while I was in graduation and learning c, in its cons
 To compile the code it is necessary to have any compiler that runs programs in c (https://en.wikipedia.org/wiki/List_of_compilers#C_compilerss), besides this list there are online compilers that easily implement the code such as https://www.onlinegdb.com/ and https://replit.com.
 
 **PS**: For the code to run, the FORCA.txt file must be in the same folder as the ForcaGame.c code.
-##########################################
+
 ### Compiling and running the code
 
 To compile the code in serial using the GNU compiler do:
